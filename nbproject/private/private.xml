@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/InstagramScraper/Instagram.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/instagramGetUserAll.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/instagramGetPhotoCode.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/InstagramScraper/Endpoints.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/instagramGetNumberPhoto.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/instagramActiveLike.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/instagramGetNumberPhotoLike.php</file>
+            <file>file:/C:/xampp/htdocs/instagram-php/src/InstagramScraper/connectdb.php</file>
+        </group>
+    </open-files>
+</project-private>
